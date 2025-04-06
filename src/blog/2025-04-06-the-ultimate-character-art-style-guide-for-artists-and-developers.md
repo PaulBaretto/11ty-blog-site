@@ -11,7 +11,7 @@ date: 2025-04-06T15:50:00.000Z
 tags:
   - post
   - featured
-image: assets/blog/678fc1b23d777d0f26eaaeba_characters_genshin.webp
+image: assets/blog/img.jpg
 imageAlt: The Ultimate Character Art Style Guide for Artists and Developers
 ---
 Different character art styles matter a lot when you draw your characters. It defines the shape, the silhouette, the way it’s going to be perceived by your audience. Choosing the proper style for your characters that suits your project from the start will result in a beautiful blend of artistic integrity, connection with other aspects of your game and overall a unified artistic touch. 
