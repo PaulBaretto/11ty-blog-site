@@ -1,0 +1,9 @@
+[[plugins]]
+  package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+  paths = ["public", ".cache", "node_modules/.cache"]
+
+[build]
+  command = "npx @11ty/eleventy"
+  publish = "public"
