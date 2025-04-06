@@ -55,7 +55,7 @@ The pixelated style for character and game design gained popularity in the early
 
 Quickly, pixel style has become a cherished style thanks to that: it quickly established itself as a style that is heavily associated with the indie scene. Nowadays, new generations of players prefer the nostalgic and impressionistic quality of low-poly, but pixel style is still here for those who have an emotional connection to it that is hard to put into words. It’s also very straightforward on a technical level: pixel-style color pallets tend to be limited, designs usually follow particular, blocky shapes, animations are simple. Some artists, however, can go forward and put a lot of effort into pixel style, making it look less than a game from your childhood and more like a real painting.
 
-![](assets/blog/678fc26a47485d960f2c0f97_678fbec13cfb7303e4a59016_styles_unliving.webp)
+![](/assets/blog/678fc26a47485d960f2c0f97_678fbec13cfb7303e4a59016_styles_unliving.webp)
 
 **Perfect for you if:** You’re making a game with a retro aesthetic, don’t have a bigger budget for more demanding 2D and 3D styles or just like how special and unique it still manages to look.
 
@@ -88,8 +88,6 @@ In addition, due to an infamous uncanny valley effect, it takes a lot to make ch
   *Uncharted and The Last of Us* series) 
 * *Call of Duty and Battlefield* series
 * *The Witcher 3* (2015)
-
-
 
 ## Conclusion
 
