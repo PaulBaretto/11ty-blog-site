@@ -9,7 +9,7 @@ date: 2025-04-06T17:58:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/article-3.jpg
+image: /assets/blog/img.jpg
 imageAlt: This is a test
 ---
 
