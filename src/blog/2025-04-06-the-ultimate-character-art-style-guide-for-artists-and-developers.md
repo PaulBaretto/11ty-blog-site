@@ -1,11 +1,11 @@
 ---
 title: The Ultimate Character Art Style Guide for Artists and Developers
-description: "Different character art styles matter a lot when you draw your
+description: Different character art styles matter a lot when you draw your
   characters. It defines the shape, the silhouette, the way it’s going to be
   perceived by your audience. Choosing the proper style for your characters that
   suits your project from the start will result in a beautiful blend of artistic
   integrity, connection with other aspects of your game and overall a unified
-  artistic touch. "
+  artistic touch....
 author: Paul Baretto
 date: 2025-04-06T15:50:00.000Z
 tags:
