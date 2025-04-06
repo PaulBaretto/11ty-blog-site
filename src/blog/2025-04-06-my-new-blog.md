@@ -9,7 +9,7 @@ date: 2025-04-06T17:58:00.000Z
 tags:
   - post
   - featured
-image: /assets/blog/kenny-eliason-otyc4eogjgg-unsplash-1-.jpg
+image: /assets/blog/article-5-in-src.jpg
 imageAlt: This is a test
 ---
 
